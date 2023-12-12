@@ -13,6 +13,8 @@ export async function createUserAccount(user:INewUser) {
         user.name
         
         )
+
+        // this is authe,tication thing
         return newAccount;
     } catch (error) {
         console.log(error);
