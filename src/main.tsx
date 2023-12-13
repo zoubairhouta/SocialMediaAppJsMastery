@@ -6,6 +6,6 @@ ReactDOM .createRoot(document.getElementById('root')!).render(
 <BrowserRouter>
 <App/>
 </BrowserRouter>
-
+// VITE_APPWRITE_URL
 
 )
